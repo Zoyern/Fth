@@ -1,0 +1,10 @@
+{
+    "loader": [
+        {
+            "id": 1,
+            "path": "loader",
+            "title": "content",
+            "content": "ContentLoader"
+        }
+    ]
+}
